@@ -1,2 +1,4 @@
 # kakao-clone
- normad academy
+
+normad academy
+Kakao Desktop App Clone
